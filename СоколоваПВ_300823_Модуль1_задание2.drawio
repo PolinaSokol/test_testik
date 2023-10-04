@@ -1,0 +1,193 @@
+<mxfile host="app.diagrams.net" modified="2023-08-30T13:39:27.636Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 YaBrowser/23.7.3.823 Yowser/2.5 Safari/537.36" etag="eQv_8qCYQ7iQhUPQ8U8v" version="21.7.0" type="device">
+  <diagram name="Страница — 1" id="ouHh831yMGq4mXnLehRX">
+    <mxGraphModel dx="832" dy="479" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="AfWOHGuELOsv9gfaUynL-25" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="AfWOHGuELOsv9gfaUynL-1" target="AfWOHGuELOsv9gfaUynL-24">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="AfWOHGuELOsv9gfaUynL-1" value="Начало" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="310" y="10" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="AfWOHGuELOsv9gfaUynL-35" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="AfWOHGuELOsv9gfaUynL-2" target="AfWOHGuELOsv9gfaUynL-34">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="500" y="320" />
+              <mxPoint x="500" y="320" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="AfWOHGuELOsv9gfaUynL-2" value="Создание события" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="310" y="290" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="AfWOHGuELOsv9gfaUynL-51" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="AfWOHGuELOsv9gfaUynL-13" target="AfWOHGuELOsv9gfaUynL-16">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="AfWOHGuELOsv9gfaUynL-13" value="&amp;nbsp;Установка и снятие флажка весь день&amp;nbsp;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="540" y="650" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="AfWOHGuELOsv9gfaUynL-50" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="AfWOHGuELOsv9gfaUynL-15" target="AfWOHGuELOsv9gfaUynL-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="AfWOHGuELOsv9gfaUynL-15" value="Настройка повторения" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="540" y="560" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="AfWOHGuELOsv9gfaUynL-53" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="AfWOHGuELOsv9gfaUynL-16" target="AfWOHGuELOsv9gfaUynL-52">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="AfWOHGuELOsv9gfaUynL-16" value="Установка и снятие флажка Уведомление" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="380" y="650" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="AfWOHGuELOsv9gfaUynL-81" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="AfWOHGuELOsv9gfaUynL-17" target="AfWOHGuELOsv9gfaUynL-78">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="570" y="830" />
+              <mxPoint x="570" y="830" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="AfWOHGuELOsv9gfaUynL-17" value="Отправка всем при включенном флажке" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="460" y="760" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="AfWOHGuELOsv9gfaUynL-65" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="AfWOHGuELOsv9gfaUynL-18" target="AfWOHGuELOsv9gfaUynL-64">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="AfWOHGuELOsv9gfaUynL-18" value="&amp;nbsp;Сохранение события" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="70" y="850" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="AfWOHGuELOsv9gfaUynL-59" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="AfWOHGuELOsv9gfaUynL-21" target="AfWOHGuELOsv9gfaUynL-58">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="AfWOHGuELOsv9gfaUynL-62" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="AfWOHGuELOsv9gfaUynL-21" target="AfWOHGuELOsv9gfaUynL-18">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="AfWOHGuELOsv9gfaUynL-21" value="Не все обязательные поля заполнены?" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="90" y="740" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="AfWOHGuELOsv9gfaUynL-29" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="AfWOHGuELOsv9gfaUynL-23" target="AfWOHGuELOsv9gfaUynL-24">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="AfWOHGuELOsv9gfaUynL-23" value="Проверка наличия предустановленных событий в системе" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="310" y="100" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="AfWOHGuELOsv9gfaUynL-30" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="AfWOHGuELOsv9gfaUynL-24" target="AfWOHGuELOsv9gfaUynL-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="AfWOHGuELOsv9gfaUynL-82" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="AfWOHGuELOsv9gfaUynL-24" target="AfWOHGuELOsv9gfaUynL-78">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="720" y="220" />
+              <mxPoint x="720" y="880" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="AfWOHGuELOsv9gfaUynL-24" value="Проверка прошла успешно?" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="330" y="180" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="AfWOHGuELOsv9gfaUynL-31" value="Да" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="330" y="258" width="40" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="AfWOHGuELOsv9gfaUynL-38" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="AfWOHGuELOsv9gfaUynL-34" target="AfWOHGuELOsv9gfaUynL-37">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="AfWOHGuELOsv9gfaUynL-34" value="Заполнение всех обязательных полей(Наименование, участники,часовой пояс,дата и время, место проведения." style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="500" y="315" width="200" height="85" as="geometry" />
+        </mxCell>
+        <mxCell id="AfWOHGuELOsv9gfaUynL-39" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="AfWOHGuELOsv9gfaUynL-37" target="AfWOHGuELOsv9gfaUynL-15">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="AfWOHGuELOsv9gfaUynL-42" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="AfWOHGuELOsv9gfaUynL-37" target="AfWOHGuELOsv9gfaUynL-41">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="510" y="480" />
+              <mxPoint x="510" y="480" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="AfWOHGuELOsv9gfaUynL-37" value="Период повторения выбран?" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="560" y="440" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="AfWOHGuELOsv9gfaUynL-40" value="Да" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="600" y="528" width="40" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="AfWOHGuELOsv9gfaUynL-48" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.75;entryDx=0;entryDy=0;" edge="1" parent="1" source="AfWOHGuELOsv9gfaUynL-41" target="AfWOHGuELOsv9gfaUynL-15">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="420" y="605" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="AfWOHGuELOsv9gfaUynL-41" value="Заполнение не обязательных полей(ссылка ,место проведения, описание)" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="360" y="480" width="120" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="AfWOHGuELOsv9gfaUynL-45" value="Нет" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="490" y="458" width="40" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="AfWOHGuELOsv9gfaUynL-57" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="AfWOHGuELOsv9gfaUynL-52" target="AfWOHGuELOsv9gfaUynL-54">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="AfWOHGuELOsv9gfaUynL-52" value="Нажатие кнопки &quot;сохранить&quot;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="220" y="650" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="AfWOHGuELOsv9gfaUynL-56" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="AfWOHGuELOsv9gfaUynL-54" target="AfWOHGuELOsv9gfaUynL-21">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="AfWOHGuELOsv9gfaUynL-54" value="Проверка заполнения обязательных полей" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="220" y="750" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="AfWOHGuELOsv9gfaUynL-60" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="AfWOHGuELOsv9gfaUynL-58" target="AfWOHGuELOsv9gfaUynL-52">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="AfWOHGuELOsv9gfaUynL-58" value="Заполнение полей выделенных красным цветом" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="70" y="650" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="AfWOHGuELOsv9gfaUynL-61" value="Нет" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="130" y="718" width="40" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="AfWOHGuELOsv9gfaUynL-63" value="Да" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="130" y="818" width="40" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="AfWOHGuELOsv9gfaUynL-67" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="AfWOHGuELOsv9gfaUynL-64" target="AfWOHGuELOsv9gfaUynL-66">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="AfWOHGuELOsv9gfaUynL-70" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="AfWOHGuELOsv9gfaUynL-64" target="AfWOHGuELOsv9gfaUynL-69">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="AfWOHGuELOsv9gfaUynL-64" value="Флажок &quot;Весь день установлен?&quot;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="250" y="840" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="AfWOHGuELOsv9gfaUynL-72" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="AfWOHGuELOsv9gfaUynL-66" target="AfWOHGuELOsv9gfaUynL-69">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="AfWOHGuELOsv9gfaUynL-66" value="Отображение о событии весь день" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="230" y="960" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="AfWOHGuELOsv9gfaUynL-68" value="Да" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="280" y="918" width="40" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="AfWOHGuELOsv9gfaUynL-73" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="AfWOHGuELOsv9gfaUynL-69" target="AfWOHGuELOsv9gfaUynL-17">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="AfWOHGuELOsv9gfaUynL-80" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="AfWOHGuELOsv9gfaUynL-69" target="AfWOHGuELOsv9gfaUynL-78">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="AfWOHGuELOsv9gfaUynL-69" value="Флажок &quot;Уведомить о событии?&quot;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="390" y="840" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="AfWOHGuELOsv9gfaUynL-71" value="Нет" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="340" y="858" width="40" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="AfWOHGuELOsv9gfaUynL-78" value="Конец" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="510" y="850" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="AfWOHGuELOsv9gfaUynL-79" value="Да" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="390" y="808" width="40" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="AfWOHGuELOsv9gfaUynL-83" value="Нет" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="430" y="198" width="40" height="30" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
